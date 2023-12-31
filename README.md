@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="formulário de eventos" src="github/Formulario.png" width="100%">
+  <img alt="formulário de eventos" src="github/EventsForm.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O formulario de Evento é um projeto desenvolvido para a criação e compartilhamento de eventos de sua preferência.
+O projeto "Formulário de Eventos" é um formulário desenvolvido para a criação e compartilhamento de eventos.
 
 - [Acesse o projeto finalizado (online). ](https://silverioesantos.github.io/formulario-evento/)
 
